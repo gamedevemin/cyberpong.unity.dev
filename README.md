@@ -19,7 +19,7 @@ Etik ve eğlenceli bir oyun yapmaya çalışırken Cyberpunk bir evrendeki Pong 
 ### Oyuniçi Ekran
 ![cyberpong2](https://github.com/user-attachments/assets/3735fd8e-718a-4857-b429-3bfb5763c5ae)
 
-### Birleşme Sonrası
+### Bigbang (paddle + balls + walls + black space) Sonrasında Dirilidiğini Zannetiğinin Hemen Sonrası
 ![cyberpong3](https://github.com/user-attachments/assets/b2678efe-57c9-48d8-86a3-71c5205bbcc0)
 
 # NOT:
